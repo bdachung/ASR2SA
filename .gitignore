@@ -1,0 +1,4 @@
+ASR_model/*
+kenlm_model/*
+SA_model/*
+__pycache__/
